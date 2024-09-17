@@ -41,7 +41,7 @@ Not many banks have a fully feature Open API ready yet, this list should include
 For a comprehansive list of banks with semi-baked apis check [Open banking APIs](http://openbankingapis.io/)
 
 * [Barclays](https://developer.barclays.com/)
-* [Nationwide](https://www.nationwide.co.uk/developer)
+* [Nationwide](https://developer.nationwide.co.uk/home)
 * [Revolut Business API](https://www.revolut.com/open-api) integrate Revolut into your existing business process
 * [HSBC Group developer portal](https://developer.hsbc.com/) with some basic endpoints (no accounts)
 * [Monzo](https://docs.monzo.com/#aisp-access) interact with Monzo user accounts (read only)
